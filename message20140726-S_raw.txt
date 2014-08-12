@@ -1,0 +1,4278 @@
+[
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "大家好！",
+    "createdDate": "2014/07/26 12:51:33",
+    "updatedDate": "2014/07/26 12:51:33",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "傅郁揚",
+    "text": "第二會議室下午會合併到第一會議室  第二會場今天的會議結束，謝謝大家",
+    "createdDate": "2014/07/26 12:53:11",
+    "updatedDate": "2014/07/26 12:53:11",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "傅郁揚：不好意思，您的訊息有誤喔！今天第二會議室一樣有議程喔！",
+    "createdDate": "2014/07/26 13:04:57",
+    "updatedDate": "2014/07/26 13:04:57",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "createdDate": "2014/07/26 13:25:35",
+    "updatedDate": "2014/07/26 13:25:35",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "開場",
+    "createdDate": "2014/07/26 13:25:39",
+    "updatedDate": "2014/07/26 13:25:39",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "LIVEhouse.in 國是會議 7/26 全國大會第二會議室 Part 1",
+    "createdDate": "2014/07/26 13:30:21",
+    "updatedDate": "2014/07/26 13:30:21",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "大家好！",
+    "createdDate": "2014/07/26 13:31:27",
+    "updatedDate": "2014/07/26 13:31:27",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "您好",
+    "createdDate": "2014/07/26 13:31:38",
+    "updatedDate": "2014/07/26 13:31:38",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "雨蒼好！",
+    "createdDate": "2014/07/26 13:31:40",
+    "updatedDate": "2014/07/26 13:31:40",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "主持人：楊泮池校長和管中閔",
+    "createdDate": "2014/07/26 13:31:49",
+    "updatedDate": "2014/07/26 13:31:49",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "謝謝校長和主委！",
+    "createdDate": "2014/07/26 13:32:06",
+    "updatedDate": "2014/07/26 13:32:06",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "針對「臺灣加入區域經貿整合與兩岸經貿策略」",
+    "createdDate": "2014/07/26 13:32:48",
+    "updatedDate": "2014/07/26 13:32:48",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "管主委，午安！^^",
+    "createdDate": "2014/07/26 13:33:03",
+    "updatedDate": "2014/07/26 13:33:03",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "農委會副主任委員 胡興華",
+    "createdDate": "2014/07/26 13:33:30",
+    "updatedDate": "2014/07/26 13:33:30",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "謝謝主委的辛苦！",
+    "createdDate": "2014/07/26 13:33:33",
+    "updatedDate": "2014/07/26 13:33:33",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "胡副主委好！",
+    "createdDate": "2014/07/26 13:33:53",
+    "updatedDate": "2014/07/26 13:33:53",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "發言人-  胡興華  行政院農業委員會 副主任委員",
+    "createdDate": "2014/07/26 13:34:12",
+    "updatedDate": "2014/07/26 13:34:12",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「台灣農業不做改變，就是坐以待弊」",
+    "createdDate": "2014/07/26 13:34:15",
+    "updatedDate": "2014/07/26 13:34:15",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "他有下鄉過?",
+    "createdDate": "2014/07/26 13:34:46",
+    "updatedDate": "2014/07/26 13:34:46",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "請問剛剛主持人是說，一人的發言時間是多少？",
+    "createdDate": "2014/07/26 13:34:48",
+    "updatedDate": "2014/07/26 13:34:48",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「把餅做大，可以進攻，可以防守」",
+    "createdDate": "2014/07/26 13:34:53",
+    "updatedDate": "2014/07/26 13:34:53",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "發言4分鐘",
+    "createdDate": "2014/07/26 13:34:57",
+    "updatedDate": "2014/07/26 13:34:57",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "小農有獨特的價值啊！",
+    "createdDate": "2014/07/26 13:35:05",
+    "updatedDate": "2014/07/26 13:35:05",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "謝謝，有延長一分鐘啊！",
+    "createdDate": "2014/07/26 13:35:13",
+    "updatedDate": "2014/07/26 13:35:13",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "胡：市場的防禦",
+    "createdDate": "2014/07/26 13:35:35",
+    "updatedDate": "2014/07/26 13:35:35",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "一天到晚把農地改成工商用!農地去哪生出來?",
+    "createdDate": "2014/07/26 13:36:22",
+    "updatedDate": "2014/07/26 13:36:22",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "我想知道大規模農業真的是適合台灣的嗎？",
+    "createdDate": "2014/07/26 13:36:36",
+    "updatedDate": "2014/07/26 13:36:36",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "宜蘭的農地都在蓋民宿",
+    "createdDate": "2014/07/26 13:36:41",
+    "updatedDate": "2014/07/26 13:36:41",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "跨域的生產",
+    "createdDate": "2014/07/26 13:37:00",
+    "updatedDate": "2014/07/26 13:37:00",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "台灣的糧食自給率?",
+    "createdDate": "2014/07/26 13:37:08",
+    "updatedDate": "2014/07/26 13:37:08",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "有耶，我是學生態的喔",
+    "createdDate": "2014/07/26 13:37:09",
+    "updatedDate": "2014/07/26 13:37:09",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "所以我想我的訓練對農業的永續應該有一些思考的價值的",
+    "createdDate": "2014/07/26 13:37:46",
+    "updatedDate": "2014/07/26 13:37:46",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "然後我也有學一點水產養殖喔",
+    "createdDate": "2014/07/26 13:38:12",
+    "updatedDate": "2014/07/26 13:38:12",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "謝謝胡副主委",
+    "createdDate": "2014/07/26 13:38:25",
+    "updatedDate": "2014/07/26 13:38:25",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "發言人- 林祖嘉 行政院大陸委員會 副主任委員",
+    "createdDate": "2014/07/26 13:38:32",
+    "updatedDate": "2014/07/26 13:38:32",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "中興?屏科?台大?",
+    "createdDate": "2014/07/26 13:38:44",
+    "updatedDate": "2014/07/26 13:38:44",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "以前同時有生態和漁業的系",
+    "createdDate": "2014/07/26 13:39:10",
+    "updatedDate": "2014/07/26 13:39:10",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "現在許多人對中國的疑慮在於中國想統一台灣，有國安問題",
+    "createdDate": "2014/07/26 13:39:11",
+    "updatedDate": "2014/07/26 13:39:11",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "哪所學校?",
+    "createdDate": "2014/07/26 13:39:27",
+    "updatedDate": "2014/07/26 13:39:27",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "台大",
+    "createdDate": "2014/07/26 13:39:33",
+    "updatedDate": "2014/07/26 13:39:33",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "我想，儘速通過服貿、貨貿並非有共識，但他卻說有共識，這是有問題的。",
+    "createdDate": "2014/07/26 13:39:40",
+    "updatedDate": "2014/07/26 13:39:40",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "你們學校社會系的孫中興教授繩經說過:台大自己都解決不了自給的問題",
+    "createdDate": "2014/07/26 13:40:20",
+    "updatedDate": "2014/07/26 13:40:20",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "你們腳踏車的問題?",
+    "createdDate": "2014/07/26 13:40:37",
+    "updatedDate": "2014/07/26 13:40:37",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "我也從會議的畫面，覺得是還不是共識耶",
+    "createdDate": "2014/07/26 13:40:39",
+    "updatedDate": "2014/07/26 13:40:39",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "等等....",
+    "createdDate": "2014/07/26 13:40:45",
+    "updatedDate": "2014/07/26 13:40:45",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "台大....",
+    "createdDate": "2014/07/26 13:40:50",
+    "updatedDate": "2014/07/26 13:40:50",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "呵呵",
+    "createdDate": "2014/07/26 13:40:52",
+    "updatedDate": "2014/07/26 13:40:52",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "中韓協議我記得保留的一大堆喔，而且他們談很久了，不像台灣談一年就急著簽。",
+    "createdDate": "2014/07/26 13:41:21",
+    "updatedDate": "2014/07/26 13:41:21",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "對不起，我真的本來不想說學校，就是怕會離開議題啊",
+    "createdDate": "2014/07/26 13:41:26",
+    "updatedDate": "2014/07/26 13:41:26",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "中華民國來台",
+    "createdDate": "2014/07/26 13:41:46",
+    "updatedDate": "2014/07/26 13:41:46",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "李登輝,陳水扁,馬英九",
+    "createdDate": "2014/07/26 13:42:03",
+    "updatedDate": "2014/07/26 13:42:03",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "鐵板燒",
+    "text": "那不要先談服貿",
+    "createdDate": "2014/07/26 13:42:08",
+    "updatedDate": "2014/07/26 13:42:08",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "都你們的人ㄟ",
+    "createdDate": "2014/07/26 13:42:10",
+    "updatedDate": "2014/07/26 13:42:10",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "Lembert Lin",
+    "text": "不要離題啦",
+    "createdDate": "2014/07/26 13:42:34",
+    "updatedDate": "2014/07/26 13:42:34",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "謝謝對學長的說明，我想我們可以專心議題的",
+    "createdDate": "2014/07/26 13:42:44",
+    "updatedDate": "2014/07/26 13:42:44",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「監督條例可以讓兩岸談判更透明」，但問題在於政府版的監督條例問題太多了....",
+    "createdDate": "2014/07/26 13:43:18",
+    "updatedDate": "2014/07/26 13:43:18",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "請問監督條例目前是在委員會審議嗎？",
+    "createdDate": "2014/07/26 13:43:39",
+    "updatedDate": "2014/07/26 13:43:39",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "談到網路討論了",
+    "createdDate": "2014/07/26 13:43:42",
+    "updatedDate": "2014/07/26 13:43:42",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「所有的網友你們都會留下記錄」",
+    "createdDate": "2014/07/26 13:43:58",
+    "updatedDate": "2014/07/26 13:43:58",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "國安的審查真的很重要",
+    "createdDate": "2014/07/26 13:44:14",
+    "updatedDate": "2014/07/26 13:44:14",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "監督條例目前尚未付委",
+    "createdDate": "2014/07/26 13:44:30",
+    "updatedDate": "2014/07/26 13:44:30",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "發言人- 商台玉 台灣數位文化協會 理事長",
+    "createdDate": "2014/07/26 13:44:34",
+    "updatedDate": "2014/07/26 13:44:34",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "謝謝林副主委",
+    "createdDate": "2014/07/26 13:44:34",
+    "updatedDate": "2014/07/26 13:44:34",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "謝謝商台玉",
+    "createdDate": "2014/07/26 13:44:45",
+    "updatedDate": "2014/07/26 13:44:45",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "理事長",
+    "createdDate": "2014/07/26 13:44:53",
+    "updatedDate": "2014/07/26 13:44:53",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "謝謝，",
+    "createdDate": "2014/07/26 13:45:01",
+    "updatedDate": "2014/07/26 13:45:01",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "此次臨時會有監督條例的復議案",
+    "createdDate": "2014/07/26 13:45:03",
+    "updatedDate": "2014/07/26 13:45:03",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「這次沒有反對黨加入，有點流於形式」",
+    "createdDate": "2014/07/26 13:45:27",
+    "updatedDate": "2014/07/26 13:45:27",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "現場參與的伙伴大家好！（揮手ing）",
+    "createdDate": "2014/07/26 13:45:35",
+    "updatedDate": "2014/07/26 13:45:35",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "辛苦大家了！^^",
+    "createdDate": "2014/07/26 13:45:49",
+    "updatedDate": "2014/07/26 13:45:49",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「網路直播可能會成為未來會議的標準配備」",
+    "createdDate": "2014/07/26 13:46:02",
+    "updatedDate": "2014/07/26 13:46:02",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "註：「^^」 是微笑的意思",
+    "createdDate": "2014/07/26 13:46:09",
+    "updatedDate": "2014/07/26 13:46:09",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "謝謝蔡政務委員！",
+    "createdDate": "2014/07/26 13:46:25",
+    "updatedDate": "2014/07/26 13:46:25",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "雨蒼大大...怎麼都你打出來很久了...我才看得到",
+    "createdDate": "2014/07/26 13:46:31",
+    "updatedDate": "2014/07/26 13:46:31",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「網友是否願意揭露自己的姓名、年齡等隱私資料？」",
+    "createdDate": "2014/07/26 13:46:34",
+    "updatedDate": "2014/07/26 13:46:34",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "謝謝你的重視和推動！",
+    "createdDate": "2014/07/26 13:46:36",
+    "updatedDate": "2014/07/26 13:46:36",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "清華大學經濟系 劉瑞華",
+    "createdDate": "2014/07/26 13:47:11",
+    "updatedDate": "2014/07/26 13:47:11",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "我們覺得您推動的是一件改變政府和效能的歷史性意義！",
+    "createdDate": "2014/07/26 13:47:13",
+    "updatedDate": "2014/07/26 13:47:13",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "鐵板燒",
+    "text": "讓人關切嗎 別開玩笑",
+    "createdDate": "2014/07/26 13:47:17",
+    "updatedDate": "2014/07/26 13:47:17",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「會議議題安排沒有主軸」",
+    "createdDate": "2014/07/26 13:47:37",
+    "updatedDate": "2014/07/26 13:47:37",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "謝謝商理事長！",
+    "createdDate": "2014/07/26 13:47:44",
+    "updatedDate": "2014/07/26 13:47:44",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "發言人- 劉瑞華 國立清華大學經濟學系 教授兼系主任",
+    "createdDate": "2014/07/26 13:47:53",
+    "updatedDate": "2014/07/26 13:47:53",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "謝謝辛苦的政府人員！",
+    "createdDate": "2014/07/26 13:47:56",
+    "updatedDate": "2014/07/26 13:47:56",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "我不想被敲門操水表 ...",
+    "createdDate": "2014/07/26 13:47:57",
+    "updatedDate": "2014/07/26 13:47:57",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "ㄟ....我會建議不要一直謝啦，請做出較有內容之發言比較好喔。",
+    "createdDate": "2014/07/26 13:48:12",
+    "updatedDate": "2014/07/26 13:48:12",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "好！",
+    "createdDate": "2014/07/26 13:48:19",
+    "updatedDate": "2014/07/26 13:48:19",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "收到！",
+    "createdDate": "2014/07/26 13:48:38",
+    "updatedDate": "2014/07/26 13:48:38",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "那請大家心裡記得我們感謝每位發言和參與的各位！就不再復述了^^",
+    "createdDate": "2014/07/26 13:49:31",
+    "updatedDate": "2014/07/26 13:49:31",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "Albert Tzeng",
+    "text": "商台玉的發言，也是在提醒我們，發言前想想要留下什麼樣的文字記錄。例如，我會建議，純粹寒暄打屁的留言可以節制一點，儘量把有限的注意力空間，留給具體的看法。",
+    "createdDate": "2014/07/26 13:49:39",
+    "updatedDate": "2014/07/26 13:49:39",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "贊成有多方對話與討論的會議模式！",
+    "createdDate": "2014/07/26 13:50:16",
+    "updatedDate": "2014/07/26 13:50:16",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "這樣的確可以匯集「集體智慧！」",
+    "createdDate": "2014/07/26 13:50:36",
+    "updatedDate": "2014/07/26 13:50:36",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「去年12月WTO曾討論過是否該解散WTO」「今天，台灣有人會認為應該退出WTO嗎？」",
+    "createdDate": "2014/07/26 13:50:49",
+    "updatedDate": "2014/07/26 13:50:49",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「如果台灣不能自外於全球化之外，我們該思考的應該是未來該怎麼走。」",
+    "createdDate": "2014/07/26 13:51:45",
+    "updatedDate": "2014/07/26 13:51:45",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "（但問題在於全球化造成的衝擊該如何應付，這點沒有完整評估吧）",
+    "createdDate": "2014/07/26 13:52:05",
+    "updatedDate": "2014/07/26 13:52:05",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "單方面的決定，單方面的要民眾背書，有誰願意主動幫忙背書？政府現在的決策模式就是這樣，如果是廠商受害人民受益，有哪家廠商願意站出來受害？",
+    "createdDate": "2014/07/26 13:52:43",
+    "updatedDate": "2014/07/26 13:52:43",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "想多瞭解「明顯的標題」的意思",
+    "createdDate": "2014/07/26 13:53:04",
+    "updatedDate": "2014/07/26 13:53:04",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "建議「發展全球經濟發展多元夥伴」",
+    "createdDate": "2014/07/26 13:53:06",
+    "updatedDate": "2014/07/26 13:53:06",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "他應該是覺得這次會議沒有主軸，盍各言爾志吧。",
+    "createdDate": "2014/07/26 13:53:35",
+    "updatedDate": "2014/07/26 13:53:35",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "也或許是覺得應該要有深入的辯論和討論？",
+    "createdDate": "2014/07/26 13:53:43",
+    "updatedDate": "2014/07/26 13:53:43",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "Albert Tzeng",
+    "text": "關於「標題」，問題是，誰來定？其實這次會議已經有兩個標題，但問題是都只集中在經貿，相對「去政治化」，跟當初太陽花運動中，對「經貿的政治基礎」開展有系統反省的期待，仍有落差。",
+    "createdDate": "2014/07/26 13:54:38",
+    "updatedDate": "2014/07/26 13:54:38",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "請問剛剛第二句是是說「建立自由市場什麼規範」？",
+    "createdDate": "2014/07/26 13:54:59",
+    "updatedDate": "2014/07/26 13:54:59",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "發言人- 鄒若齊 臺灣鋼鐵工業同業公會 理事長",
+    "createdDate": "2014/07/26 13:55:02",
+    "updatedDate": "2014/07/26 13:55:02",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「國家不該把公共建設降低」",
+    "createdDate": "2014/07/26 13:55:11",
+    "updatedDate": "2014/07/26 13:55:11",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "請問這位也是中鋼的總經理嗎？之前在南區會議有聽過謅理事長發言",
+    "createdDate": "2014/07/26 13:55:50",
+    "updatedDate": "2014/07/26 13:55:50",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "深度的辯論和討論，不應該淪於單方面替政府背書，民間的聲音也不是\"我都聽到了\"有聽沒有做到，放著貪汙不管，拼命的要民眾來背書，很抱歉我不願意",
+    "createdDate": "2014/07/26 13:56:22",
+    "updatedDate": "2014/07/26 13:56:22",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "青",
+    "text": "政府舉辦經貿國是會議是為了要回應學運以來對於服貿議題的疑慮 但為什麼要浪費納稅人的錢在蒐集一次議題？？ 若真要回應，隨便拿一個學運的提問認真回答不就好了？ 視而不見已累積的大量論述，好像只為了江院長「不相信整個網路世界都在批判政府」",
+    "createdDate": "2014/07/26 13:56:45",
+    "updatedDate": "2014/07/26 13:56:45",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "青",
+    "text": "http://newtalk.tw/news/2014/07/22/49474.html",
+    "createdDate": "2014/07/26 13:56:54",
+    "updatedDate": "2014/07/26 13:56:54",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "嗯，公共建設和投資的確應該成為產業自主的幫助",
+    "createdDate": "2014/07/26 13:56:56",
+    "updatedDate": "2014/07/26 13:56:56",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "青",
+    "text": "所以必須辦理一些奇妙的活動、透過院長相信的管道來蒐集政府想要聽到的意見",
+    "createdDate": "2014/07/26 13:57:06",
+    "updatedDate": "2014/07/26 13:57:06",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "鐵板燒",
+    "text": "去政治化的經貿會議就只是幫政府背書而已",
+    "createdDate": "2014/07/26 13:57:08",
+    "updatedDate": "2014/07/26 13:57:08",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "青",
+    "text": "舉例： 1.\t7/19舉辦的經貿國是會議青年辯論示範賽計畫 目的： 促進全國青年學生對於重大公共政策議題之關心與意見交流，透過辯論比賽的方式，由經驗豐富的青年辯士透過資料蒐集與分析，從各種角度思考，彙整正反方意見，經過理性討論，提升青年學生",
+    "createdDate": "2014/07/26 13:57:18",
+    "updatedDate": "2014/07/26 13:57:18",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "青",
+    "text": "提升青年學生多元的思考能力，深化公民素養。",
+    "createdDate": "2014/07/26 13:57:32",
+    "updatedDate": "2014/07/26 13:57:32",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "青",
+    "text": "2.\t7/20在行政院大禮堂舉辦的世界咖啡館 目的： 近來世界貿易自由化與兩岸服務貿易協議議題，引發全民關切，為增進民眾對臺灣區域經濟整合議題的認識與了解，爰配合「經貿國是會議」辦理1場經貿青年World Café，提供網路社群青年以世界咖",
+    "createdDate": "2014/07/26 13:57:52",
+    "updatedDate": "2014/07/26 13:57:52",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "青",
+    "text": "提供網路社群青年以世界咖啡館的討論模式，針對與青年相關之經貿議題進行討論，學習尊重多元意見及價值觀，涵養更成熟的民主參與模式。",
+    "createdDate": "2014/07/26 13:58:11",
+    "updatedDate": "2014/07/26 13:58:11",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "青",
+    "text": "從以上活動舉辦目的來看，不覺得很可笑嗎？服貿本是一個牽涉廣泛政治、經濟的議題，現在要蒐集意見，卻限縮在「經貿自由化，Z>B or B>Z的辯論賽」。而世界咖啡館更是從來沒有提到「服貿」兩個字，一整天的結論意見卻用了像小學生投票推舉兩位代表，",
+    "createdDate": "2014/07/26 13:58:20",
+    "updatedDate": "2014/07/26 13:58:20",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "青",
+    "text": "http://www.appledaily.com.tw/realtimenews/article/forum/20140721/437381/",
+    "createdDate": "2014/07/26 13:58:29",
+    "updatedDate": "2014/07/26 13:58:29",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "志工- TonyQ",
+    "text": "(請大家尊重場場上講者，聚焦議題)",
+    "createdDate": "2014/07/26 13:58:36",
+    "updatedDate": "2014/07/26 13:58:36",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "而且我想公共建設不只是考量到產業升級，也應該考慮到對國民生活的提升",
+    "createdDate": "2014/07/26 13:58:38",
+    "updatedDate": "2014/07/26 13:58:38",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "發言人-  張順教  國立臺灣科技大學企管系  教授",
+    "createdDate": "2014/07/26 13:59:03",
+    "updatedDate": "2014/07/26 13:59:03",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「示範區可以降低產業在整合轉型的成本」",
+    "createdDate": "2014/07/26 14:00:20",
+    "updatedDate": "2014/07/26 14:00:20",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "（？）",
+    "createdDate": "2014/07/26 14:00:24",
+    "updatedDate": "2014/07/26 14:00:24",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "廠商發展我支持，但不是建立在1.血汗工廠 2.汙染環境 3.毛三到四甚至一不做二不休這樣惡性競爭的循環中 ... 做跟別人一樣的東西是要怎樣良性競爭？只剩下惡性削價罷了 ... 只有一個廠商會做，還需要免關稅等優惠幫忙嗎？不需要！",
+    "createdDate": "2014/07/26 14:00:37",
+    "updatedDate": "2014/07/26 14:00:37",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "li10485...台灣的科技園區很多都是如此喔",
+    "createdDate": "2014/07/26 14:01:58",
+    "updatedDate": "2014/07/26 14:01:58",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "請問剛剛張教授說到的是降低什麼成本？因為我聽到的是「教育」成本，不解ing",
+    "createdDate": "2014/07/26 14:02:02",
+    "updatedDate": "2014/07/26 14:02:02",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "大陸原物料 ... ㄜ ...",
+    "createdDate": "2014/07/26 14:02:31",
+    "updatedDate": "2014/07/26 14:02:31",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "Lembert Lin",
+    "text": "員工培訓吧?!",
+    "createdDate": "2014/07/26 14:03:04",
+    "updatedDate": "2014/07/26 14:03:04",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "可是我想請問農業發展的基本優先考量，是不是應該是「國民健康」與「國家自主」呢？",
+    "createdDate": "2014/07/26 14:03:14",
+    "updatedDate": "2014/07/26 14:03:14",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "經濟產值應該不是農業國策的優先價值啊",
+    "createdDate": "2014/07/26 14:03:44",
+    "updatedDate": "2014/07/26 14:03:44",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "拿大陸的原物料來製作產品，我只想到一句英文 garbage In garbage Out",
+    "createdDate": "2014/07/26 14:03:47",
+    "updatedDate": "2014/07/26 14:03:47",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "還有對台灣生態與就業、社會穩定的價值",
+    "createdDate": "2014/07/26 14:04:00",
+    "updatedDate": "2014/07/26 14:04:00",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "農業和自主的農民是我們台灣的寶貝啊",
+    "createdDate": "2014/07/26 14:04:21",
+    "updatedDate": "2014/07/26 14:04:21",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "我擔心農企業中的農民會變回過去的佃農",
+    "createdDate": "2014/07/26 14:04:43",
+    "updatedDate": "2014/07/26 14:04:43",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "你知道很多年輕農民要租個農地都很難嗎?",
+    "createdDate": "2014/07/26 14:04:50",
+    "updatedDate": "2014/07/26 14:04:50",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "發言人-  邱昌嶽  內政部  次長",
+    "createdDate": "2014/07/26 14:04:54",
+    "updatedDate": "2014/07/26 14:04:54",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "因為地主怕過去的政策重演",
+    "createdDate": "2014/07/26 14:05:20",
+    "updatedDate": "2014/07/26 14:05:20",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "Albert Tzeng",
+    "text": "其實我原則上也能接受小規模開辦示範區。之前民間延續反黑箱服貿動能，杯葛示範區，似乎忽視兩者在「局部影響vs全面影響」之間的對比。  不過張老師對健保的拆解，蠻右派的。對市場可能性的追逐，不免踩到這個社會想要保障的一些基本價值。",
+    "createdDate": "2014/07/26 14:05:21",
+    "updatedDate": "2014/07/26 14:05:21",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "內政部來護航自經區的",
+    "createdDate": "2014/07/26 14:05:31",
+    "updatedDate": "2014/07/26 14:05:31",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "我知道喔，我是農民學院結業的喔",
+    "createdDate": "2014/07/26 14:05:37",
+    "updatedDate": "2014/07/26 14:05:37",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "也到過農地銀行找過喔",
+    "createdDate": "2014/07/26 14:05:48",
+    "updatedDate": "2014/07/26 14:05:48",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "鐵板燒",
+    "text": "他長的跟江宜樺很像 你知道的",
+    "createdDate": "2014/07/26 14:05:59",
+    "updatedDate": "2014/07/26 14:05:59",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "Albert Tzeng：事實上對於自經區影響是否真的可以侷限，這是有問題的。政府事實上也說過，開放後如果ok，會進一步開發。",
+    "createdDate": "2014/07/26 14:06:22",
+    "updatedDate": "2014/07/26 14:06:22",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "請聚焦議題討論",
+    "createdDate": "2014/07/26 14:06:25",
+    "updatedDate": "2014/07/26 14:06:25",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "自經區是\"各種偷渡\"的一種概念 ...",
+    "createdDate": "2014/07/26 14:06:27",
+    "updatedDate": "2014/07/26 14:06:27",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "發言人-  陳景星  社團法人高雄市大高雄中小企業協會  理事長",
+    "createdDate": "2014/07/26 14:06:58",
+    "updatedDate": "2014/07/26 14:06:58",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "拒絕用大陸術語，拒絕用殘體字",
+    "createdDate": "2014/07/26 14:07:21",
+    "updatedDate": "2014/07/26 14:07:21",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "畢竟還有前店後廠、產品可以內銷等等，加上區外的人力或物力分配也受到影響，其實影響很可能不會只侷限在部分地方。",
+    "createdDate": "2014/07/26 14:07:31",
+    "updatedDate": "2014/07/26 14:07:31",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "我對陳景星代表在南區會議的發言印象很深",
+    "createdDate": "2014/07/26 14:07:44",
+    "updatedDate": "2014/07/26 14:07:44",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "印象中陳理事長有兩次的發言",
+    "createdDate": "2014/07/26 14:08:00",
+    "updatedDate": "2014/07/26 14:08:00",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "王昇將軍啊",
+    "createdDate": "2014/07/26 14:08:14",
+    "updatedDate": "2014/07/26 14:08:14",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "他認為「潘世偉有個女朋友幹嘛下台？事情做的好好的就好啊」",
+    "createdDate": "2014/07/26 14:08:45",
+    "updatedDate": "2014/07/26 14:08:45",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "我比較贊同王將軍女兒王小棣導演的理念",
+    "createdDate": "2014/07/26 14:09:05",
+    "updatedDate": "2014/07/26 14:09:05",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "嗯 ... 抓不到重點，只聽到一堆大陸，請問是歐洲大陸，還是美洲大陸啊？",
+    "createdDate": "2014/07/26 14:09:31",
+    "updatedDate": "2014/07/26 14:09:31",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "馬政府自己要求道德高標準的怪誰",
+    "createdDate": "2014/07/26 14:09:47",
+    "updatedDate": "2014/07/26 14:09:47",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "我想應該考慮對關廠工人 收費員等等政策的問題",
+    "createdDate": "2014/07/26 14:09:53",
+    "updatedDate": "2014/07/26 14:09:53",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "<=泛藍689",
+    "createdDate": "2014/07/26 14:10:07",
+    "updatedDate": "2014/07/26 14:10:07",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "真的只是張慶忠委員的衝動嗎？",
+    "createdDate": "2014/07/26 14:10:31",
+    "updatedDate": "2014/07/26 14:10:31",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "講到蔣經國 ＠＠",
+    "createdDate": "2014/07/26 14:10:44",
+    "updatedDate": "2014/07/26 14:10:44",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "高雄不適都很低薪 他要不要發表看法",
+    "createdDate": "2014/07/26 14:10:56",
+    "updatedDate": "2014/07/26 14:10:56",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "哀",
+    "createdDate": "2014/07/26 14:11:03",
+    "updatedDate": "2014/07/26 14:11:03",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "他抱怨中鋼裡面一堆泛綠的，跟他講話說「你們國民黨的講話都不客觀」",
+    "createdDate": "2014/07/26 14:11:17",
+    "updatedDate": "2014/07/26 14:11:17",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "我也很想找到陳代表的重點XD",
+    "createdDate": "2014/07/26 14:11:18",
+    "updatedDate": "2014/07/26 14:11:18",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "他不是高雄中小企業理事長嗎",
+    "createdDate": "2014/07/26 14:11:29",
+    "updatedDate": "2014/07/26 14:11:29",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "living",
+    "createdDate": "2014/07/26 14:11:31",
+    "updatedDate": "2014/07/26 14:11:31",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "鐵板燒",
+    "text": "最重要的是政府信用破產的關係",
+    "createdDate": "2014/07/26 14:11:43",
+    "updatedDate": "2014/07/26 14:11:43",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "可以說一下重點是?",
+    "createdDate": "2014/07/26 14:11:46",
+    "updatedDate": "2014/07/26 14:11:46",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "<=泛藍689 這次會投綠的 滿意嗎？",
+    "createdDate": "2014/07/26 14:11:55",
+    "updatedDate": "2014/07/26 14:11:55",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "問題不是泛綠泛藍，也不是宣導，而是政府態度的問題啊。沒有意願去聽聽反對的聲音，結果就是這樣啊＠＠",
+    "createdDate": "2014/07/26 14:12:00",
+    "updatedDate": "2014/07/26 14:12:00",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "怎麼聚焦?",
+    "createdDate": "2014/07/26 14:12:05",
+    "updatedDate": "2014/07/26 14:12:05",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "當過兵的果然都...",
+    "createdDate": "2014/07/26 14:12:13",
+    "updatedDate": "2014/07/26 14:12:13",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "Albert Tzeng",
+    "text": "living 我之前寫過一篇「服貿爭議的理路」，提出過，張慶忠的30秒，背後反應的是 1 當前對於兩岸協議國會監督欠缺法源，以及 2 兩黨在欠缺法源下，勉強沿用「行政命令」審查程序來審服貿，導致的問題。",
+    "createdDate": "2014/07/26 14:12:31",
+    "updatedDate": "2014/07/26 14:12:31",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「沒有把經濟弄好，什麼都是假的」",
+    "createdDate": "2014/07/26 14:12:47",
+    "updatedDate": "2014/07/26 14:12:47",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "ShangTsung:首先是完整的聽清楚伙伴的發言",
+    "createdDate": "2014/07/26 14:12:49",
+    "updatedDate": "2014/07/26 14:12:49",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "下一位是Albert Tzeng",
+    "createdDate": "2014/07/26 14:13:05",
+    "updatedDate": "2014/07/26 14:13:05",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "然後，分辨伙伴說的是「事實」還是他的「感情」或「推論」",
+    "createdDate": "2014/07/26 14:13:26",
+    "updatedDate": "2014/07/26 14:13:26",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "現在是台大法律系的學生發言",
+    "createdDate": "2014/07/26 14:13:29",
+    "updatedDate": "2014/07/26 14:13:29",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "然後，再根據事實進行思考和討論",
+    "createdDate": "2014/07/26 14:13:45",
+    "updatedDate": "2014/07/26 14:13:45",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "發言人- 邱丞正  國立台灣大學 學生代表",
+    "createdDate": "2014/07/26 14:13:54",
+    "updatedDate": "2014/07/26 14:13:54",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "他提到的是讓台灣青年走入世界，讓世界青年走入台灣",
+    "createdDate": "2014/07/26 14:14:10",
+    "updatedDate": "2014/07/26 14:14:10",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "Lembert Lin",
+    "text": "三民主義是偏左的社會主義路線，台灣現在某些部份偏右(網路延遲回應延遲請見諒",
+    "createdDate": "2014/07/26 14:14:54",
+    "updatedDate": "2014/07/26 14:14:54",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "再思考對方不同的角度是否合理，自己是不是被說服",
+    "createdDate": "2014/07/26 14:14:58",
+    "updatedDate": "2014/07/26 14:14:58",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "我想，這樣的態度是良好討論的基礎",
+    "createdDate": "2014/07/26 14:15:17",
+    "updatedDate": "2014/07/26 14:15:17",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "國際青年來台灣，政府解讀=中國的青年 ...",
+    "createdDate": "2014/07/26 14:15:32",
+    "updatedDate": "2014/07/26 14:15:32",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "鐵板燒",
+    "text": "不要滿腦子都是中國",
+    "createdDate": "2014/07/26 14:15:35",
+    "updatedDate": "2014/07/26 14:15:35",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "以台灣薪資有誰肯來啊",
+    "createdDate": "2014/07/26 14:16:20",
+    "updatedDate": "2014/07/26 14:16:20",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "特別要注意伙伴發言中的「意見」和「事實」和「推論」",
+    "createdDate": "2014/07/26 14:16:41",
+    "updatedDate": "2014/07/26 14:16:41",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "曾柏文發言",
+    "createdDate": "2014/07/26 14:16:57",
+    "updatedDate": "2014/07/26 14:16:57",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "低薪問題才是重點吧",
+    "createdDate": "2014/07/26 14:17:14",
+    "updatedDate": "2014/07/26 14:17:14",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "u5710587 廠商毛三到四甚至一不做二不休，薪水是要怎樣提升啊 ... 都馬苟延殘喘，要不就是忽略環境汙染成本或是退稅等才有機會活著",
+    "createdDate": "2014/07/26 14:17:15",
+    "updatedDate": "2014/07/26 14:17:15",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「會議預先抽籤，結果大家都在講自己的意見，沒有爭辯、辯論，展開意見」",
+    "createdDate": "2014/07/26 14:17:22",
+    "updatedDate": "2014/07/26 14:17:22",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "發言人- 曾柏文  天下獨立評論等評論網 / 思想起共筆部落格  專欄作家 / 部落格主筆",
+    "createdDate": "2014/07/26 14:17:28",
+    "updatedDate": "2014/07/26 14:17:28",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "比如說，「世界都在學華文」究竟是事實，還是從媒體得到的「印象」，有什麼事實支持這個基礎",
+    "createdDate": "2014/07/26 14:17:36",
+    "updatedDate": "2014/07/26 14:17:36",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「羅列了各種意見，好像都寫到了，但優先次序沒有凸顯，價值爭議沒有被凸顯」",
+    "createdDate": "2014/07/26 14:17:45",
+    "updatedDate": "2014/07/26 14:17:45",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "志工- TonyQ",
+    "text": "Albert ++",
+    "createdDate": "2014/07/26 14:18:01",
+    "updatedDate": "2014/07/26 14:18:01",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "自己愛costdown怪誰",
+    "createdDate": "2014/07/26 14:18:05",
+    "updatedDate": "2014/07/26 14:18:05",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「用量化邏輯處理質化資料，這是有問題的」",
+    "createdDate": "2014/07/26 14:18:12",
+    "updatedDate": "2014/07/26 14:18:12",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "政府:\"我都聽到了\"，啊結果哩～",
+    "createdDate": "2014/07/26 14:18:20",
+    "updatedDate": "2014/07/26 14:18:20",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「結論會產生平庸化，因為關鍵問題的解法可能只有少數人發現，但多數卻不一定可以看到。」",
+    "createdDate": "2014/07/26 14:18:39",
+    "updatedDate": "2014/07/26 14:18:39",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "對，我也覺得這樣抽籤的方式比較難以彼此激發思考，拓展視角！",
+    "createdDate": "2014/07/26 14:19:16",
+    "updatedDate": "2014/07/26 14:19:16",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "的確有「平庸化」的能",
+    "createdDate": "2014/07/26 14:19:36",
+    "updatedDate": "2014/07/26 14:19:36",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "有「資訊守門人」與「過濾者」的問題",
+    "createdDate": "2014/07/26 14:20:01",
+    "updatedDate": "2014/07/26 14:20:01",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「回應幾乎都是『我們有在做了』，很少看到現行政策的不足處」",
+    "createdDate": "2014/07/26 14:20:08",
+    "updatedDate": "2014/07/26 14:20:08",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "在提出的意見中，和政府意見間有許多邏輯上的預設",
+    "createdDate": "2014/07/26 14:20:41",
+    "updatedDate": "2014/07/26 14:20:41",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "容我謝謝政府的努力一下！",
+    "createdDate": "2014/07/26 14:20:54",
+    "updatedDate": "2014/07/26 14:20:54",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "民間提到的是「強化溝通」，但政府回應卻是「我們強化宣導」",
+    "createdDate": "2014/07/26 14:20:56",
+    "updatedDate": "2014/07/26 14:20:56",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "daydreamfish",
+    "text": "東南亞不是只有曼谷還是巴里島，我在寮國與緬甸的背包客旅程，遇見全世界的人，但我卻必須解釋Taiwan不是Tailand。所以，一直要求政府協助青年走進國際，因應全球化，是唯一的方法嗎?",
+    "createdDate": "2014/07/26 14:21:12",
+    "updatedDate": "2014/07/26 14:21:12",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "應該要有公務人員淘汰機制做不到就走人",
+    "createdDate": "2014/07/26 14:21:15",
+    "updatedDate": "2014/07/26 14:21:15",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "鐵板燒",
+    "text": "政府視而不見",
+    "createdDate": "2014/07/26 14:21:19",
+    "updatedDate": "2014/07/26 14:21:19",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「很多東西是制度上的修改，而非錢砸下去就夠了」",
+    "createdDate": "2014/07/26 14:21:20",
+    "updatedDate": "2014/07/26 14:21:20",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「到底這個攸關全國經貿諮詢的平台，以這種傳統會議的溝通頻寬，到底夠不夠？」",
+    "createdDate": "2014/07/26 14:22:03",
+    "updatedDate": "2014/07/26 14:22:03",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "先把貪汙問題解決吧 ... 沒有官商勾結，現在社會上的議題能少掉幾件啊 ...",
+    "createdDate": "2014/07/26 14:22:06",
+    "updatedDate": "2014/07/26 14:22:06",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "對，我也有發現縱整中，「政府回應」和「意見」有時不連貫",
+    "createdDate": "2014/07/26 14:22:10",
+    "updatedDate": "2014/07/26 14:22:10",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「只靠這種會議，溝通平台應該是不夠的」",
+    "createdDate": "2014/07/26 14:22:38",
+    "updatedDate": "2014/07/26 14:22:38",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「應該要有一個常規性的溝通數位平台，這種全國會議才可能扮演好他被期待的角色」",
+    "createdDate": "2014/07/26 14:23:10",
+    "updatedDate": "2014/07/26 14:23:10",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「不然真的很像各個產業過來跟政府討糖吃」",
+    "createdDate": "2014/07/26 14:23:24",
+    "updatedDate": "2014/07/26 14:23:24",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "比如，剛剛對「糧食自給率」的意見，沒有看到農委會的回應",
+    "createdDate": "2014/07/26 14:23:31",
+    "updatedDate": "2014/07/26 14:23:31",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "發言結束～",
+    "createdDate": "2014/07/26 14:23:32",
+    "updatedDate": "2014/07/26 14:23:32",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "發言人-郭國興  中國文化大學國際貿易系  副教授",
+    "createdDate": "2014/07/26 14:24:01",
+    "updatedDate": "2014/07/26 14:24:01",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "（鼓掌）",
+    "createdDate": "2014/07/26 14:24:30",
+    "updatedDate": "2014/07/26 14:24:30",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "我也贊成技術的保護，而且「農業的技術」也一定要保護！",
+    "createdDate": "2014/07/26 14:25:42",
+    "updatedDate": "2014/07/26 14:25:42",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "made for China  made with China",
+    "createdDate": "2014/07/26 14:26:14",
+    "updatedDate": "2014/07/26 14:26:14",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "大陸台商對台灣有經濟貢獻嗎 關政府屁事",
+    "createdDate": "2014/07/26 14:26:53",
+    "updatedDate": "2014/07/26 14:26:53",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "與中國合資的台商企業的比例增加的問題",
+    "createdDate": "2014/07/26 14:26:54",
+    "updatedDate": "2014/07/26 14:26:54",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「我們在加入TPP和RCEP時，要以利他主義的思維來思考」",
+    "createdDate": "2014/07/26 14:27:44",
+    "updatedDate": "2014/07/26 14:27:44",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "（可是我總覺得美國、中國都很自私啊）",
+    "createdDate": "2014/07/26 14:28:15",
+    "updatedDate": "2014/07/26 14:28:15",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "Lembert Lin",
+    "text": "「以利他主義的思維來思考」沒有哪一個國家會用這樣的思維來談判吧，願意站在互利的思維就很讚了",
+    "createdDate": "2014/07/26 14:29:28",
+    "updatedDate": "2014/07/26 14:29:28",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "不好意思，可以請u5710587的選字稍微考慮一下？^^",
+    "createdDate": "2014/07/26 14:29:32",
+    "updatedDate": "2014/07/26 14:29:32",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "這教授?台灣已經台灣接單大陸生產很久了...是我活在平行時空?",
+    "createdDate": "2014/07/26 14:30:28",
+    "updatedDate": "2014/07/26 14:30:28",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "我已經懶得說了 ...",
+    "createdDate": "2014/07/26 14:30:29",
+    "updatedDate": "2014/07/26 14:30:29",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "去睡午覺好了....",
+    "createdDate": "2014/07/26 14:30:51",
+    "updatedDate": "2014/07/26 14:30:51",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "發言人-王應傑  台北市商業會 / 中華民國公共汽車客運聯合會  理事長",
+    "createdDate": "2014/07/26 14:30:59",
+    "updatedDate": "2014/07/26 14:30:59",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "跳針 跳針 還是跳針 ...",
+    "createdDate": "2014/07/26 14:31:11",
+    "updatedDate": "2014/07/26 14:31:11",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "不，我聽郭教授的說法，有提供我不一樣的新看法耶！",
+    "createdDate": "2014/07/26 14:31:29",
+    "updatedDate": "2014/07/26 14:31:29",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "王應傑：服貿和貨貿要儘速通過",
+    "createdDate": "2014/07/26 14:31:40",
+    "updatedDate": "2014/07/26 14:31:40",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "發言人-李奇嶽  創新旅行社有限公司 董事長",
+    "createdDate": "2014/07/26 14:31:52",
+    "updatedDate": "2014/07/26 14:31:52",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "因為台灣和中國的來往沒辦法後退",
+    "createdDate": "2014/07/26 14:32:00",
+    "updatedDate": "2014/07/26 14:32:00",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "更正，是李奇嶽發言",
+    "createdDate": "2014/07/26 14:32:10",
+    "updatedDate": "2014/07/26 14:32:10",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "對，這位是旅行社的代表，我之前也在北區會議中有看過李代表發言",
+    "createdDate": "2014/07/26 14:32:50",
+    "updatedDate": "2014/07/26 14:32:50",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "人家一條龍服務 你旅行社賺啥 還一眛支持",
+    "createdDate": "2014/07/26 14:32:54",
+    "updatedDate": "2014/07/26 14:32:54",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "記得之後好像還有其他的國事會議",
+    "createdDate": "2014/07/26 14:34:04",
+    "updatedDate": "2014/07/26 14:34:04",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "藍營取暖大會 ... 一言堂，結果就請看年底選舉吧",
+    "createdDate": "2014/07/26 14:34:04",
+    "updatedDate": "2014/07/26 14:34:04",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "李：對抗陸資一條龍的方式：發展台資一條龍",
+    "createdDate": "2014/07/26 14:34:06",
+    "updatedDate": "2014/07/26 14:34:06",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "Albert Tzeng",
+    "text": "其實1990 與1996兩次國是會議，為人稱道的結果，有些人指出，其實是李登輝意志的展現，國是會議只是一個臺階。不同的是，當年領導人的意志站在歷史的方向。說到底，這種制式會議對於「對話」與「共識形塑」的功能仍有限。",
+    "createdDate": "2014/07/26 14:34:45",
+    "updatedDate": "2014/07/26 14:34:45",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "大家要專心聽完對方發言的段落，才發言回應，這樣比較準確",
+    "createdDate": "2014/07/26 14:34:57",
+    "updatedDate": "2014/07/26 14:34:57",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "對，的確有兩次國事會議，謝謝ALBERT",
+    "createdDate": "2014/07/26 14:35:22",
+    "updatedDate": "2014/07/26 14:35:22",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "他在質疑裡面的意見歸納有問題",
+    "createdDate": "2014/07/26 14:36:07",
+    "updatedDate": "2014/07/26 14:36:07",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "「零團費團」，真的要考量",
+    "createdDate": "2014/07/26 14:36:21",
+    "updatedDate": "2014/07/26 14:36:21",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "不過我的想法是，這個會議只有各自發表意見，沒有說服，共識更沒有形成吧。",
+    "createdDate": "2014/07/26 14:36:27",
+    "updatedDate": "2014/07/26 14:36:27",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "每個人都講自己的!?這是???不懂!",
+    "createdDate": "2014/07/26 14:36:59",
+    "updatedDate": "2014/07/26 14:36:59",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "「零團費團」對中國朋友和台灣的旅遊環境提升真的不好！",
+    "createdDate": "2014/07/26 14:37:03",
+    "updatedDate": "2014/07/26 14:37:03",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "發言人-王應傑  台北市商業會 / 中華民國公共汽車客運聯合會  理事長",
+    "createdDate": "2014/07/26 14:37:12",
+    "updatedDate": "2014/07/26 14:37:12",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "鐵板燒",
+    "text": "以服貿貨貿通過為前提",
+    "createdDate": "2014/07/26 14:37:20",
+    "updatedDate": "2014/07/26 14:37:20",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "共識 = 說服 = 支持服貿貨貿自經區 支持回歸祖國 是這個意思嗎？",
+    "createdDate": "2014/07/26 14:37:22",
+    "updatedDate": "2014/07/26 14:37:22",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "就是說，各自登記發言，各自講各自的，發言完沒有展開討論",
+    "createdDate": "2014/07/26 14:37:29",
+    "updatedDate": "2014/07/26 14:37:29",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "本來，我想民主就是個人從自己的理解分享開始啊！",
+    "createdDate": "2014/07/26 14:37:40",
+    "updatedDate": "2014/07/26 14:37:40",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "比如說他說要儘速通過服貿貨貿後，應可就這個議題開始請其他人發言或是對話",
+    "createdDate": "2014/07/26 14:37:52",
+    "updatedDate": "2014/07/26 14:37:52",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "但沒有",
+    "createdDate": "2014/07/26 14:37:54",
+    "updatedDate": "2014/07/26 14:37:54",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "開完會有討論?",
+    "createdDate": "2014/07/26 14:38:02",
+    "updatedDate": "2014/07/26 14:38:02",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "Albert Tzeng",
+    "text": "我覺得在現在這個當下，對會議最大的期待，只有對於不同觀點的「現聲」，還很難期待「對話」。或許能做的是，從這場會議累積的文本，整理出幾個核心爭點，後續以更聚焦的討論形式（如審議民主）進一步處理。",
+    "createdDate": "2014/07/26 14:38:04",
+    "updatedDate": "2014/07/26 14:38:04",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "未看先猜，王理事長會推「開放遊覽車司機外勞」XD",
+    "createdDate": "2014/07/26 14:38:15",
+    "updatedDate": "2014/07/26 14:38:15",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "對，我想，我們要支持政府勇敢的嘗試",
+    "createdDate": "2014/07/26 14:38:45",
+    "updatedDate": "2014/07/26 14:38:45",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "支持政府這次瞭解民意與開放決策依據的努力！",
+    "createdDate": "2014/07/26 14:39:46",
+    "updatedDate": "2014/07/26 14:39:46",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「政府應當找幾個專員特別針對工商團體進行諮詢，有些比較有知識的可以多諮詢」",
+    "createdDate": "2014/07/26 14:40:07",
+    "updatedDate": "2014/07/26 14:40:07",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "民意反對服貿還聽不懂嗎？",
+    "createdDate": "2014/07/26 14:40:08",
+    "updatedDate": "2014/07/26 14:40:08",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "...",
+    "createdDate": "2014/07/26 14:40:10",
+    "updatedDate": "2014/07/26 14:40:10",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "因為政府政策影響的範圍大，不能只有少數團體參與",
+    "createdDate": "2014/07/26 14:40:53",
+    "updatedDate": "2014/07/26 14:40:53",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "重點真的在心態，問題不在於「說服」「宣導」",
+    "createdDate": "2014/07/26 14:41:36",
+    "updatedDate": "2014/07/26 14:41:36",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "而在於「溝通」",
+    "createdDate": "2014/07/26 14:41:42",
+    "updatedDate": "2014/07/26 14:41:42",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "就像農業不能只有學農的專家、核電不能只有核工的專家決定，因為他們跟我們一樣都有盲點",
+    "createdDate": "2014/07/26 14:41:46",
+    "updatedDate": "2014/07/26 14:41:46",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "對，還有「討論」與「最大共識」的獲得",
+    "createdDate": "2014/07/26 14:42:12",
+    "updatedDate": "2014/07/26 14:42:12",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "怎麼講都是在講賺錢....",
+    "createdDate": "2014/07/26 14:42:25",
+    "updatedDate": "2014/07/26 14:42:25",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "因為每一個人的價值一樣，每一個人的意見重要",
+    "createdDate": "2014/07/26 14:42:37",
+    "updatedDate": "2014/07/26 14:42:37",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "living 你幾時開始有政府在跟民眾討論並取得最大共識的錯覺？",
+    "createdDate": "2014/07/26 14:42:51",
+    "updatedDate": "2014/07/26 14:42:51",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "不會因為有錢或有學歷就一定會比較對",
+    "createdDate": "2014/07/26 14:42:55",
+    "updatedDate": "2014/07/26 14:42:55",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "對，現在沒有，但是是開始啊！",
+    "createdDate": "2014/07/26 14:43:17",
+    "updatedDate": "2014/07/26 14:43:17",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「對環保的想法還停留在當年」「東北角海岸線管制區都不能讓大財團去蓋觀光飯店，讓小朋友去玩水」",
+    "createdDate": "2014/07/26 14:43:46",
+    "updatedDate": "2014/07/26 14:43:46",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "還要多久？三個月？還是再讓馬執政四年才夠？",
+    "createdDate": "2014/07/26 14:43:54",
+    "updatedDate": "2014/07/26 14:43:54",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "這.....美麗灣、蜜月灣趕快蓋的意思嗎？",
+    "createdDate": "2014/07/26 14:44:03",
+    "updatedDate": "2014/07/26 14:44:03",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "不然我其實今天想看的直播是PNN的「模擬陪審」，但是我覺得國發會的嘗試更是對台灣歷史和政府施政是歷史性的意義",
+    "createdDate": "2014/07/26 14:44:28",
+    "updatedDate": "2014/07/26 14:44:28",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "不用再四年啦...以後都不用選舉...國民黨持續執政..這樣好不好",
+    "createdDate": "2014/07/26 14:44:28",
+    "updatedDate": "2014/07/26 14:44:28",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "Lembert Lin",
+    "text": "當世界已經開始反思只以經濟成長率評斷一個國家是否正確時，台灣明顯還不少人依舊停留在舊時代",
+    "createdDate": "2014/07/26 14:44:33",
+    "updatedDate": "2014/07/26 14:44:33",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "接下來開放舉手發言",
+    "createdDate": "2014/07/26 14:44:36",
+    "updatedDate": "2014/07/26 14:44:36",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "ShangTsung 那麼 民眾只能鼓掌贊成通過了 ...",
+    "createdDate": "2014/07/26 14:45:06",
+    "updatedDate": "2014/07/26 14:45:06",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "蜜月灣的環評報告我有去環保署下載看",
+    "createdDate": "2014/07/26 14:45:06",
+    "updatedDate": "2014/07/26 14:45:06",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "鐵板燒",
+    "text": "停留在舊時代  不就是因為中央權力過大的關係嗎",
+    "createdDate": "2014/07/26 14:45:07",
+    "updatedDate": "2014/07/26 14:45:07",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "開放 舉手發言",
+    "createdDate": "2014/07/26 14:45:27",
+    "updatedDate": "2014/07/26 14:45:27",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "別墅區和住宅區多於旅館區",
+    "createdDate": "2014/07/26 14:45:29",
+    "updatedDate": "2014/07/26 14:45:29",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "現在不就是這樣?",
+    "createdDate": "2014/07/26 14:45:32",
+    "updatedDate": "2014/07/26 14:45:32",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "我想他說環保思維停留在舊時帶，意思是說海岸線應該快點給財團蓋飯店吧....",
+    "createdDate": "2014/07/26 14:45:34",
+    "updatedDate": "2014/07/26 14:45:34",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "鐵板燒",
+    "text": "什麼中央點頭就行了 人民完全沒辦法反抗",
+    "createdDate": "2014/07/26 14:45:41",
+    "updatedDate": "2014/07/26 14:45:41",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "鐵板燒",
+    "text": "有誠意的話公投法就修一修 其他都只是摸頭而已",
+    "createdDate": "2014/07/26 14:45:56",
+    "updatedDate": "2014/07/26 14:45:56",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "我們怎麼說都是\"贊成\"服貿通過",
+    "createdDate": "2014/07/26 14:45:58",
+    "updatedDate": "2014/07/26 14:45:58",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "有討論到嗎?",
+    "createdDate": "2014/07/26 14:46:02",
+    "updatedDate": "2014/07/26 14:46:02",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "卓士昭發言",
+    "createdDate": "2014/07/26 14:46:10",
+    "updatedDate": "2014/07/26 14:46:10",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "所以我認為蜜月灣是建案，而不只是旅遊休憩案！",
+    "createdDate": "2014/07/26 14:46:16",
+    "updatedDate": "2014/07/26 14:46:16",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "Jack",
+    "text": "遊覽車老闆該要做的，是遵守法令保障運將勞動條件，而非一味的引進外勞。",
+    "createdDate": "2014/07/26 14:46:25",
+    "updatedDate": "2014/07/26 14:46:25",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "可以到環保屬下載環評書喔！",
+    "createdDate": "2014/07/26 14:46:39",
+    "updatedDate": "2014/07/26 14:46:39",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "卓士昭 發言",
+    "createdDate": "2014/07/26 14:46:58",
+    "updatedDate": "2014/07/26 14:46:58",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "經濟部次長",
+    "createdDate": "2014/07/26 14:47:07",
+    "updatedDate": "2014/07/26 14:47:07",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "服貿公聽會就是他在代表經濟部回應的",
+    "createdDate": "2014/07/26 14:47:22",
+    "updatedDate": "2014/07/26 14:47:22",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "卓次長用兩個「事實」開場發言",
+    "createdDate": "2014/07/26 14:47:56",
+    "updatedDate": "2014/07/26 14:47:56",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "把台灣值錢的東西(環保、主權、土地、資源)通通賣掉就是外貿",
+    "createdDate": "2014/07/26 14:48:06",
+    "updatedDate": "2014/07/26 14:48:06",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "台灣對經貿的依賴度",
+    "createdDate": "2014/07/26 14:48:16",
+    "updatedDate": "2014/07/26 14:48:16",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "嗯，台灣過去的「外貿」的本質也是值得思考！",
+    "createdDate": "2014/07/26 14:48:55",
+    "updatedDate": "2014/07/26 14:48:55",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "贊成li10485的看法！",
+    "createdDate": "2014/07/26 14:49:11",
+    "updatedDate": "2014/07/26 14:49:11",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "台灣人民要看清楚，搞台獨，中國是不會打過來的！",
+    "createdDate": "2014/07/26 14:49:22",
+    "updatedDate": "2014/07/26 14:49:22",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "外貿應該是能幫助國家與國民的生活品質、環境永續與後代子孫的生存",
+    "createdDate": "2014/07/26 14:50:11",
+    "updatedDate": "2014/07/26 14:50:11",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "皓皓",
+    "text": "建案不需太多，很多國宅都變空屋了，細算看看全台有多少房，人口有多少，再蓋下去是否會變成全體國民一人一間的冏境(空屋率過高)",
+    "createdDate": "2014/07/26 14:50:39",
+    "updatedDate": "2014/07/26 14:50:39",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "卓士昭用FTA簽署後貿易額增加來說明FTA的必要性",
+    "createdDate": "2014/07/26 14:50:41",
+    "updatedDate": "2014/07/26 14:50:41",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "奶粉為何只漲不跌，明明跟紐西蘭簽了自貿，可否說明一下?",
+    "createdDate": "2014/07/26 14:50:52",
+    "updatedDate": "2014/07/26 14:50:52",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "還有奇異果！",
+    "createdDate": "2014/07/26 14:51:08",
+    "updatedDate": "2014/07/26 14:51:08",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "又是ecfa不簽其他就不能簽的論點",
+    "createdDate": "2014/07/26 14:51:40",
+    "updatedDate": "2014/07/26 14:51:40",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "ShangTsung",
+    "text": "都是阿扁的錯啦",
+    "createdDate": "2014/07/26 14:51:43",
+    "updatedDate": "2014/07/26 14:51:43",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "Lembert Lin",
+    "text": "那個要問進口商",
+    "createdDate": "2014/07/26 14:51:47",
+    "updatedDate": "2014/07/26 14:51:47",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "扁維拉牛棚就位：咳咳咳 ...",
+    "createdDate": "2014/07/26 14:51:56",
+    "updatedDate": "2014/07/26 14:51:56",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "鐵板燒",
+    "text": "有第一大的市場不簽...",
+    "createdDate": "2014/07/26 14:52:06",
+    "updatedDate": "2014/07/26 14:52:06",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "tpp妳幹嘛不簽 拉低台灣薪資 成就大陸台商嗎",
+    "createdDate": "2014/07/26 14:52:22",
+    "updatedDate": "2014/07/26 14:52:22",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "鐵板燒",
+    "text": "跳針囉",
+    "createdDate": "2014/07/26 14:52:29",
+    "updatedDate": "2014/07/26 14:55:34",
+    "status": "DELETED",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "我早說過了，藍營取暖大會 ...",
+    "createdDate": "2014/07/26 14:52:45",
+    "updatedDate": "2014/07/26 14:52:45",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "轉聽PNN模擬陪審庭有意義多了 ... 反正聽完結論也跟現在差不了多少",
+    "createdDate": "2014/07/26 14:53:34",
+    "updatedDate": "2014/07/26 14:53:34",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "韓國是先簽歐美最後才跟大陸簽 台灣反其道而行",
+    "createdDate": "2014/07/26 14:53:42",
+    "updatedDate": "2014/07/26 14:53:42",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "不會啦，li，要好好聽與會伙伴的發言，還是有很好的意見啊。",
+    "createdDate": "2014/07/26 14:53:45",
+    "updatedDate": "2014/07/26 14:53:45",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "也瞭解同一塊土地上的共同體的想法啊！",
+    "createdDate": "2014/07/26 14:54:17",
+    "updatedDate": "2014/07/26 14:54:17",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "living 聽一堆跳針言論只會腦充血罷了 ...",
+    "createdDate": "2014/07/26 14:54:29",
+    "updatedDate": "2014/07/26 14:54:48",
+    "status": "DELETED",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "請問目前發言的是哪一位？謝謝",
+    "createdDate": "2014/07/26 14:54:42",
+    "updatedDate": "2014/07/26 14:54:42",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "鐵板燒",
+    "text": "懶得玩伴家家酒了",
+    "createdDate": "2014/07/26 14:54:45",
+    "updatedDate": "2014/07/26 14:54:53",
+    "status": "DELETED",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "發言人-葉飛呈 地球綜合工業(股)公司 副董事長",
+    "createdDate": "2014/07/26 14:54:49",
+    "updatedDate": "2014/07/26 14:54:49",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "謝謝直播小組！",
+    "createdDate": "2014/07/26 14:55:05",
+    "updatedDate": "2014/07/26 14:55:05",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "志工- TonyQ",
+    "text": "(請大家要尊重講者～)",
+    "createdDate": "2014/07/26 14:55:08",
+    "updatedDate": "2014/07/26 14:55:08",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "請尊重講者+1",
+    "createdDate": "2014/07/26 14:55:37",
+    "updatedDate": "2014/07/26 14:55:37",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "台商有兩種 一種是深耕台灣的 一種是連根拔起的",
+    "createdDate": "2014/07/26 14:55:44",
+    "updatedDate": "2014/07/26 14:55:44",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "總覺得這些人，想法跟政府一樣的時候就會說：請政府努力說服別人，要是想法跟政府不一樣，他就說，請政府聽聽我們的意見",
+    "createdDate": "2014/07/26 14:56:01",
+    "updatedDate": "2014/07/26 14:56:01",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "嗯，我也有這樣的觀察",
+    "createdDate": "2014/07/26 14:56:20",
+    "updatedDate": "2014/07/26 14:56:20",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "志工- TonyQ",
+    "text": "每個人期待的未來有別吧",
+    "createdDate": "2014/07/26 14:56:33",
+    "updatedDate": "2014/07/26 14:56:33",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "TonyQ，但問題是，他們往往忽略到每個人不一樣的爭議，直接把自己的想法說是「共識」",
+    "createdDate": "2014/07/26 14:57:02",
+    "updatedDate": "2014/07/26 14:57:02",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "大陸台商賺錢有分給台灣嗎",
+    "createdDate": "2014/07/26 14:57:04",
+    "updatedDate": "2014/07/26 14:57:04",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "我們就是藉著這樣的聆聽，增加彼此的瞭解，尋求共同的未來！",
+    "createdDate": "2014/07/26 14:57:11",
+    "updatedDate": "2014/07/26 14:57:11",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "問題是，那不是共識，那是個人意見，他卻說是共識。",
+    "createdDate": "2014/07/26 14:57:14",
+    "updatedDate": "2014/07/26 14:57:14",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "志工- TonyQ",
+    "text": "(是啊，所以就算我發言，我也說我不是代表。我是青年，但我不是代表。)",
+    "createdDate": "2014/07/26 14:57:27",
+    "updatedDate": "2014/07/26 14:57:27",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "志工- TonyQ",
+    "text": "(網路上也好、現實也好，代表跟被代表，其實已經無法表達錯綜複雜的意見了。)",
+    "createdDate": "2014/07/26 14:57:41",
+    "updatedDate": "2014/07/26 14:57:41",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "對啊，讓彼此聽到彼此的聲音和想法，",
+    "createdDate": "2014/07/26 14:58:13",
+    "updatedDate": "2014/07/26 14:58:13",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "Albert Tzeng",
+    "text": "台商當然是兩岸經貿政策的stakeholder，也應邀請他們進入政策過程。不過這種必要性，不只在於對其權益訴求的表達，也在於去溝通，如果政府替他們創造利多的政策環境，他們願意透過什麼形式（如稅收）讓利潤回流台灣，特別是用以照顧政策受害者。",
+    "createdDate": "2014/07/26 14:58:15",
+    "updatedDate": "2014/07/26 14:58:15",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "志工- TonyQ",
+    "text": "(後來想想是倒不如我們就作為一個個人，來好好談談自己看到的產業。XD)",
+    "createdDate": "2014/07/26 14:58:18",
+    "updatedDate": "2014/07/26 14:58:18",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "再一起討論，尋求共識啊！",
+    "createdDate": "2014/07/26 14:58:41",
+    "updatedDate": "2014/07/26 14:58:41",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "舉個例子，這位站起來說他是台商代表，請問他的發言有沒有跟所有台商開會、取得共識？有沒有跟他所有台灣員工一起討論呢？這其實是很有意思的問題。並不應該是老闆出了錢成立公司，他就有資格代表所有員工。",
+    "createdDate": "2014/07/26 14:58:44",
+    "updatedDate": "2014/07/26 14:58:44",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "對台灣經濟沒貢獻 一天到晚吵糖吃",
+    "createdDate": "2014/07/26 14:58:55",
+    "updatedDate": "2014/07/26 14:58:55",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "對，一定要瞭解自己的侷限性！",
+    "createdDate": "2014/07/26 14:59:06",
+    "updatedDate": "2014/07/26 14:59:06",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "發言人-陳明郎\t研究員\t中央研究院經濟研究所",
+    "createdDate": "2014/07/26 14:59:21",
+    "updatedDate": "2014/07/26 14:59:21",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "並知道他人的重要！",
+    "createdDate": "2014/07/26 14:59:24",
+    "updatedDate": "2014/07/26 14:59:24",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "相對剝奪感！",
+    "createdDate": "2014/07/26 15:00:12",
+    "updatedDate": "2014/07/26 15:00:12",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「我們投資很少，是因為太多人抗爭，不讓海邊蓋旅館，不讓台南蓋先進工廠」",
+    "createdDate": "2014/07/26 15:00:29",
+    "updatedDate": "2014/07/26 15:00:29",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "呃....這個....",
+    "createdDate": "2014/07/26 15:00:33",
+    "updatedDate": "2014/07/26 15:00:33",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "不知道有沒有「絕對剝奪感」！",
+    "createdDate": "2014/07/26 15:00:40",
+    "updatedDate": "2014/07/26 15:00:40",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "living 去龍山寺看街友，那就是絕對剝奪感。",
+    "createdDate": "2014/07/26 15:01:04",
+    "updatedDate": "2014/07/26 15:01:04",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "啥鬼",
+    "createdDate": "2014/07/26 15:01:07",
+    "updatedDate": "2014/07/26 15:01:07",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "但我想對沒每一個被剝奪的人都是「絕對剝奪感」吧！",
+    "createdDate": "2014/07/26 15:01:23",
+    "updatedDate": "2014/07/26 15:01:23",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「先有投資進來，工資就會上漲」",
+    "createdDate": "2014/07/26 15:01:29",
+    "updatedDate": "2014/07/26 15:01:29",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "企業家不轉型怪台灣",
+    "createdDate": "2014/07/26 15:01:37",
+    "updatedDate": "2014/07/26 15:01:37",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "這句話中間問題很大啊，投資房地產，工資會增加媽？",
+    "createdDate": "2014/07/26 15:01:40",
+    "updatedDate": "2014/07/26 15:01:40",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "「吸引投資」的議題",
+    "createdDate": "2014/07/26 15:01:59",
+    "updatedDate": "2014/07/26 15:01:59",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "投資不等於工資增加",
+    "createdDate": "2014/07/26 15:02:03",
+    "updatedDate": "2014/07/26 15:02:03",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "整天costdown薪資會上漲？",
+    "createdDate": "2014/07/26 15:02:08",
+    "updatedDate": "2014/07/26 15:02:08",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「企業家來不是只有企業家賺錢，你也慢慢會感受到好處」",
+    "createdDate": "2014/07/26 15:02:42",
+    "updatedDate": "2014/07/26 15:02:42",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "@@",
+    "createdDate": "2014/07/26 15:02:45",
+    "updatedDate": "2014/07/26 15:02:45",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "皓皓",
+    "text": "就如同台中要蓋古根漢，就是因某些人的利益導致沒了",
+    "createdDate": "2014/07/26 15:02:48",
+    "updatedDate": "2014/07/26 15:02:48",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "Albert Tzeng",
+    "text": "把投資走低只歸咎於社會抗爭，顯得偏頗。一、後冷戰時期經濟地理結構的改變，讓台灣在全球分工的角色被取代，才是主要原因。二、另一方面，過去「適合投資」，也源於台灣社會當年相對不重視如環境、人權等其他價值。",
+    "createdDate": "2014/07/26 15:03:08",
+    "updatedDate": "2014/07/26 15:03:08",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "轉型問題怎麼不說 資方整天怪勞方",
+    "createdDate": "2014/07/26 15:03:30",
+    "updatedDate": "2014/07/26 15:03:30",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "可否請這些只有單一技能的人，只會炒房產炒地皮的人去學一技之長啊，別來讓社會變得更亂了好嗎？",
+    "createdDate": "2014/07/26 15:03:35",
+    "updatedDate": "2014/07/26 15:03:35",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "陳景星繼續發言",
+    "createdDate": "2014/07/26 15:03:38",
+    "updatedDate": "2014/07/26 15:03:38",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "發言人-陳景星 社團法人高雄市大高雄中小企業協會 理事長",
+    "createdDate": "2014/07/26 15:04:07",
+    "updatedDate": "2014/07/26 15:04:07",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「外勞可以加班，結果為什麼規定學生不准加班？」",
+    "createdDate": "2014/07/26 15:04:12",
+    "updatedDate": "2014/07/26 15:04:12",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「這都是很無聊的事情」",
+    "createdDate": "2014/07/26 15:04:23",
+    "updatedDate": "2014/07/26 15:04:23",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "我覺得 ... 將這些一人就引起社會大規模抗議的人，通通抓去培養第二技能替台灣做點貢獻比較實際 ...",
+    "createdDate": "2014/07/26 15:05:10",
+    "updatedDate": "2014/07/26 15:05:10",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「台灣的法令要跟上時代」",
+    "createdDate": "2014/07/26 15:05:22",
+    "updatedDate": "2014/07/26 15:05:22",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "加班給加班費啊 現在不是都責任制",
+    "createdDate": "2014/07/26 15:05:23",
+    "updatedDate": "2014/07/26 15:05:23",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "皓皓",
+    "text": "外勞是沒學業負擔，學生加完班有多少人可以再去負擔學業",
+    "createdDate": "2014/07/26 15:05:52",
+    "updatedDate": "2014/07/26 15:05:52",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "海岸線開放啊，請繳3000 或是請學跑酷 By某北海岸婚紗業者",
+    "createdDate": "2014/07/26 15:06:28",
+    "updatedDate": "2014/07/26 15:06:28",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "謝謝皓皓提供有價值的觀點",
+    "createdDate": "2014/07/26 15:06:33",
+    "updatedDate": "2014/07/26 15:06:33",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "1.5倍薪資給出來再說",
+    "createdDate": "2014/07/26 15:06:34",
+    "updatedDate": "2014/07/26 15:06:34",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "我知道茄萣的遊艇特區，前陣子環評好像要停止了耶！",
+    "createdDate": "2014/07/26 15:07:07",
+    "updatedDate": "2014/07/26 15:07:07",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "因為茄萣1-4道路的開發問題！",
+    "createdDate": "2014/07/26 15:07:47",
+    "updatedDate": "2014/07/26 15:07:47",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "當地有黑面琵鷺的棲息地！",
+    "createdDate": "2014/07/26 15:08:04",
+    "updatedDate": "2014/07/26 15:08:04",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "Lembert Lin",
+    "text": "如果缺工需要加班，應該要直接請正式工，產學合作班的重點是「學」不是產，如果學生個別經濟需要協助，應該透過社福機制來處理",
+    "createdDate": "2014/07/26 15:08:15",
+    "updatedDate": "2014/07/26 15:08:15",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "台灣人現在要跟大陸人一起比了",
+    "createdDate": "2014/07/26 15:08:28",
+    "updatedDate": "2014/07/26 15:08:28",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "缺工，老闆自己下來學著做吧～",
+    "createdDate": "2014/07/26 15:08:42",
+    "updatedDate": "2014/07/26 15:08:42",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "ＦＢ祖克博可是到現在還在自己寫程式碼的說喔～",
+    "createdDate": "2014/07/26 15:09:22",
+    "updatedDate": "2014/07/26 15:09:22",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "【沃草雨蒼】",
+    "text": "「我沒有聽過什麼環保啦！經濟第一啦，沒飯吃什麼都是假的啦！」",
+    "createdDate": "2014/07/26 15:09:27",
+    "updatedDate": "2014/07/26 15:09:27",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "台灣這樣子共產黨不起來我覺得真的很奇怪",
+    "createdDate": "2014/07/26 15:09:27",
+    "updatedDate": "2014/07/26 15:09:27",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "請問大家知道台中是指哪一個案嗎？",
+    "createdDate": "2014/07/26 15:09:36",
+    "updatedDate": "2014/07/26 15:09:36",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "可以參與荒野協會或中華鳥會喔！",
+    "createdDate": "2014/07/26 15:09:56",
+    "updatedDate": "2014/07/26 15:09:56",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "瞭解世界不是只有我們人類喔！",
+    "createdDate": "2014/07/26 15:10:14",
+    "updatedDate": "2014/07/26 15:10:14",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "違法排放廢水就是違法！完全沒有什麼經濟優先環保是個屁的問題",
+    "createdDate": "2014/07/26 15:10:18",
+    "updatedDate": "2014/07/26 15:10:18",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "我們的生存和他們也息息相關喔！",
+    "createdDate": "2014/07/26 15:10:33",
+    "updatedDate": "2014/07/26 15:10:33",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "皓皓",
+    "text": "不知道責任制是誰想出來的，現在公司大都搞這一招",
+    "createdDate": "2014/07/26 15:10:46",
+    "updatedDate": "2014/07/26 15:10:46",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "所以台商都滿無良的",
+    "createdDate": "2014/07/26 15:10:50",
+    "updatedDate": "2014/07/26 15:10:50",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "很想把這些廢水蒐集回來給這些大老闆喝掉說 ...",
+    "createdDate": "2014/07/26 15:11:06",
+    "updatedDate": "2014/07/26 15:11:06",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "比如蜜蜂的存在，對我們能吃到什麼影響很大喔！",
+    "createdDate": "2014/07/26 15:11:08",
+    "updatedDate": "2014/07/26 15:11:08",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "休息時間",
+    "createdDate": "2014/07/26 15:11:20",
+    "updatedDate": "2014/07/26 15:11:20",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "休息",
+    "createdDate": "2014/07/26 15:11:24",
+    "updatedDate": "2014/07/26 15:11:24",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "15:30開始下個階段",
+    "createdDate": "2014/07/26 15:11:30",
+    "updatedDate": "2014/07/26 15:11:30",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "如果沒有蜜蜂，我想我們會沒東西吃啊！",
+    "createdDate": "2014/07/26 15:11:32",
+    "updatedDate": "2014/07/26 15:11:32",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "畢竟鈔票不能吃啊！",
+    "createdDate": "2014/07/26 15:11:46",
+    "updatedDate": "2014/07/26 15:11:46",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "汙水處理，很傷本錢 ...",
+    "createdDate": "2014/07/26 15:12:15",
+    "updatedDate": "2014/07/26 15:12:15",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "大老闆賺錢到口袋 把污染的環境留給我們 這就是他們的想法",
+    "createdDate": "2014/07/26 15:12:23",
+    "updatedDate": "2014/07/26 15:12:23",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "Lembert Lin",
+    "text": "從最後發言這位大老闆的發言看到窮到只剩下錢的真實案例",
+    "createdDate": "2014/07/26 15:12:35",
+    "updatedDate": "2014/07/26 15:12:35",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "皓皓",
+    "text": "蜜蜂吃到有毒沒毒的花蜜，決定我們的蜂蜜有毒沒毒",
+    "createdDate": "2014/07/26 15:12:44",
+    "updatedDate": "2014/07/26 15:12:44",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "所以許多大老闆會偷排廢水就是罰的不夠重，偷排被罰比起汙水處理相對便宜多了",
+    "createdDate": "2014/07/26 15:12:49",
+    "updatedDate": "2014/07/26 15:12:49",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "連學生都要免費幫他賣命 台灣人命真賤",
+    "createdDate": "2014/07/26 15:13:32",
+    "updatedDate": "2014/07/26 15:13:32",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "國家培養一堆環工系的學生，結果居然是去搞偷倒廢水，學無所用這樣對嗎？",
+    "createdDate": "2014/07/26 15:13:43",
+    "updatedDate": "2014/07/26 15:13:43",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "蜜蜂有替我們作物授粉的功能，",
+    "createdDate": "2014/07/26 15:13:45",
+    "updatedDate": "2014/07/26 15:13:45",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "createdDate": "2014/07/26 15:13:58",
+    "updatedDate": "2014/07/26 15:13:58",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "有授粉才有結實，很多小農會自己養峰啊",
+    "createdDate": "2014/07/26 15:14:22",
+    "updatedDate": "2014/07/26 15:14:22",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "createdDate": "2014/07/26 15:14:22",
+    "updatedDate": "2014/07/26 15:14:22",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "休息",
+    "createdDate": "2014/07/26 15:14:25",
+    "updatedDate": "2014/07/26 15:14:25",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "大老闆才不管 他們吃的都進口的",
+    "createdDate": "2014/07/26 15:15:05",
+    "updatedDate": "2014/07/26 15:15:05",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "Lembert Lin",
+    "text": "產學合作，除非是需要長時間操作才能精進技術的，不然加班做非技術性的機器操作是不合理的，而前者應該採先進入職場學習，然後再上職業專班補充知識的方式。那個大老闆真的是還活在舊時代的人，難怪他那麼愛中國這個新興國家",
+    "createdDate": "2014/07/26 15:17:40",
+    "updatedDate": "2014/07/26 15:17:40",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "li10485",
+    "text": "先叫大老闆去學習，再問員工為何不行，老闆請以身作則",
+    "createdDate": "2014/07/26 15:20:26",
+    "updatedDate": "2014/07/26 15:20:26",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "會場決議 下一場次合併到第一會議室舉行 請線上觀眾前往此頻道討論與發言>>> https://livehouse.in/channel/NectwChannel-M",
+    "createdDate": "2014/07/26 15:21:07",
+    "updatedDate": "2014/07/26 15:21:07",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "u5710587",
+    "text": "產學合作學生也只是被派去做一些雜事 學不到東西 很多制度到台商手上都會變質",
+    "createdDate": "2014/07/26 15:21:16",
+    "updatedDate": "2014/07/26 15:21:16",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "喔，謝謝通知，來轉場去！",
+    "createdDate": "2014/07/26 15:21:33",
+    "updatedDate": "2014/07/26 15:21:33",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "等一下的討論主題是什麼呢？",
+    "createdDate": "2014/07/26 15:23:21",
+    "updatedDate": "2014/07/26 15:23:21",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "是兩個題目都可以談嗎？",
+    "createdDate": "2014/07/26 15:23:42",
+    "updatedDate": "2014/07/26 15:23:42",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "living",
+    "text": "還是可以利用機會，留在第二會議室，可以彼此討論，也許會更好啊？",
+    "createdDate": "2014/07/26 15:24:15",
+    "updatedDate": "2014/07/26 15:24:15",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "志工- TonyQ",
+    "text": "一廳是國際化 不過等下就是發言時間",
+    "createdDate": "2014/07/26 15:25:38",
+    "updatedDate": "2014/07/26 15:25:38",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "志工- TonyQ",
+    "text": "就是要講什麼就講什麼了 XD",
+    "createdDate": "2014/07/26 15:25:45",
+    "updatedDate": "2014/07/26 15:25:45",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "會場決議 下一場次合併到第一會議室舉行 請線上觀眾前往此頻道討論與發言>>> https://livehouse.in/channel/NectwChannel-M ×3:",
+    "createdDate": "2014/07/26 15:26:16",
+    "updatedDate": "2014/07/26 15:26:16",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "text": "結束",
+    "createdDate": "2014/07/26 15:36:08",
+    "updatedDate": "2014/07/26 15:36:08",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "國是會議直播小組",
+    "createdDate": "2014/07/26 16:56:58",
+    "updatedDate": "2014/07/26 16:56:58",
+    "status": "ACTIVE",
+    "isGuest": false,
+    "type": "第二會場"
+  },
+  {
+    "date": "20140726",
+    "creator": "宇宸同盟新共和",
+    "text": "要人參與竟然還故意刪留言，真是太好笑了...",
+    "createdDate": "2014/07/26 18:09:46",
+    "updatedDate": "2014/07/27 09:02:44",
+    "status": "DELETED",
+    "isGuest": false,
+    "type": "第二會場"
+  }
+]
